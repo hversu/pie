@@ -1,0 +1,268 @@
+{
+  "timeline": [
+    {
+      "name": "Proto-Indo-European (PIE)",
+      "type": "Language",
+      "start_year": "4000 BCE",
+      "end_year": "2500 BCE",
+      "region": "Pontic-Caspian Steppe",
+      "description": "The reconstructed proto-language of the Indo-European language family, spoken by the"
+    },
+    {
+      "name": "Yamna Culture",
+      "type": "Material",
+      "start_year": "3600 BCE",
+      "end_year": "2300 BCE",
+      "region": "Eastern Europe",
+      "description": "An archaeological culture associated with the early Indo-Europeans, characterized by pit graves and domesticated horses."
+    },
+    {
+      "name": "Corded Ware Culture",
+      "type": "Material",
+      "start_year": "2900 BCE",
+      "end_year": "2350 BCE",
+      "region": "Central and Eastern Europe",
+      "description": "An archaeological culture characterized by distinctive pottery with cord-like impressions and the use of battle-axes. May have been associated with the spread of Indo-European languages."
+    },
+    {
+      "name": "Hittite",
+      "type": "Language",
+      "start_year": "1600 BCE",
+      "end_year": "1180 BCE",
+      "region": "Anatolia",
+      "description": "An Indo-European language spoken in the Hittite Empire of ancient Anatolia."
+    },
+    {
+      "name": "Mycenaean Greek",
+      "type": "Language",
+      "start_year": "1600 BCE",
+      "end_year": "1100 BCE",
+      "region": "Greece",
+      "description": "An early form of the Greek language, spoken in the Mycenaean civilization of ancient Greece."
+    },
+    {
+      "name": "Vedic Sanskrit",
+      "type": "Language",
+      "start_year": "1500 BCE",
+      "end_year": "500 BCE",
+      "region": "North India",
+      "description": "An ancient form of the Sanskrit language, used in the Vedas and associated with the Vedic civilization of ancient North India."
+    },
+    {
+      "name": "Tocharian A and B",
+      "type": "Language",
+      "start_year": "1200 BCE",
+      "end_year": "900 CE",
+      "region": "Central Asia",
+      "description": "Two extinct Indo-European languages, Tocharian A and B, spoken in the Tarim Basin of Central Asia."
+    },
+    {
+      "name": "Latin",
+      "type": "Language",
+      "start_year": "753 BCE",
+      "end_year": "300 CE",
+      "region": "Italy",
+      "description": "The language of the ancient Romans, which later evolved into the Romance languages."
+    },
+    {
+      "name": "Gothic",
+      "type": "Language",
+      "start_year": "300 CE",
+      "end_year": "800 CE",
+      "region": "Eastern Europe",
+      "description": "An extinct Germanic language spoken by the Goths, preserved in the 4th century CE Gothic Bible."
+    },
+    {
+      "name": "Old English",
+      "type": "Language",
+      "start_year": "400 CE",
+      "end_year": "1000 CE",
+      "region": "England",
+      "description": "The early form of the English language, spoken in England during the Anglo-Saxon period."
+    },
+    {
+      "name": "Old Norse",
+      "type": "Language",
+      "start_year": "700 CE",
+      "end_year": "1400 CE",
+      "region": "Scandinavia",
+      "description": "The language of the Vikings, which evolved into modern Scandinavian languages."
+    },
+        {
+      "name": "Proto-Slavic",
+      "type": "Language",
+      "start_year": "500 CE",
+      "end_year": "1000 CE",
+      "region": "Eastern Europe",
+      "description": "The reconstructed ancestor of the Slavic languages, spoken in Eastern Europe during the Early Middle Ages."
+    },
+    {
+      "name": "Old Church Slavonic",
+      "type": "Language",
+      "start_year": "800 CE",
+      "end_year": "1100 CE",
+      "region": "Eastern Europe",
+      "description": "An early Slavic language used for liturgical purposes by the Orthodox Church, based on the dialect of the Thessaloniki brothers Cyril and Methodius."
+    },
+    {
+      "name": "Old East Slavic",
+      "type": "Language",
+      "start_year": "900 CE",
+      "end_year": "1400 CE",
+      "region": "Kievan Rus",
+      "description": "The ancestor of the modern East Slavic languages, including Russian, Ukrainian, and Belarusian, spoken in the Kievan Rus during the Middle Ages."
+    },
+    {
+      "name": "Old West Slavic",
+      "type": "Language",
+      "start_year": "800 CE",
+      "end_year": "1300 CE",
+      "region": "Central Europe",
+      "description": "The ancestor of the modern West Slavic languages, including Czech, Slovak, Polish, and others, spoken in Central Europe during the Middle Ages."
+    },
+    {
+      "name": "Old South Slavic",
+      "type": "Language",
+      "start_year": "800 CE",
+      "end_year": "1500 CE",
+      "region": "Balkans",
+      "description": "The ancestor of the modern South Slavic languages, including Bulgarian, Serbian, Croatian, and others, spoken in the Balkans during the Middle Ages."
+    },
+    {
+      "name": "Modern Slavic languages",
+      "type": "Language",
+      "start_year": "1500 CE",
+      "end_year": "2020 CE",
+      "region": "Eastern, Central, and Southeastern Europe",
+      "description": "The modern Slavic languages, including Russian, Ukrainian, Belarusian, Polish, Czech, Slovak, Bulgarian, Serbian, Croatian, and others, spoken in various parts of Eastern, Central, and Southeastern Europe."
+    },
+    {
+      "name": "Cucuteni-Trypillian culture",
+      "type": "Material",
+      "start_year": "5500 BCE",
+      "end_year": "2750 BCE",
+      "region": "Eastern Europe",
+      "description": "A prehistoric culture that flourished in the territory of modern-day Ukraine, Moldova, and Romania, known for its distinctive red-and-black pottery and impressive urban settlements."
+    },
+    {
+      "name": "Nuragic civilization",
+      "type": "Material",
+      "start_year": "1800 BCE",
+      "end_year": "238 BCE",
+      "region": "Sardinia",
+      "description": "An ancient civilization that developed on the island of Sardinia, known for its characteristic megalithic structures, including the nuraghe towers, and its bronze metallurgy."
+    },
+    {
+      "name": "Hallstatt culture",
+      "type": "Material",
+      "start_year": "800 BCE",
+      "end_year": "450 BCE",
+      "region": "Central Europe",
+      "description": "An archaeological culture that spread across parts of present-day Austria, Czech Republic, Germany, Hungary, and Slovakia, known for its distinctive iron grave goods, including swords, spears, and helmets."
+    },
+    {
+      "name": "La Tène culture",
+      "type": "Material",
+      "start_year": "450 BCE",
+      "end_year": "1 BCE",
+      "region": "Western and Central Europe",
+      "description": "An archaeological culture that emerged in the second half of the first millennium BCE, characterized by its elaborate and stylized art, including the famous Celtic torcs and the Gundestrup cauldron."
+    },
+    {
+      "name": "Moche culture",
+      "type": "Material",
+      "start_year": "100 BCE",
+      "end_year": "700 CE",
+      "region": "Peru",
+      "description": "An ancient civilization that flourished in the coastal region of northern Peru, known for its distinctive ceramics, which depict scenes of everyday life, as well as its impressive irrigation systems."
+    },
+      {
+      "name": "Norse culture",
+      "type": "Material",
+      "start_year": "200 CE",
+      "end_year": "1300 CE",
+      "region": "Scandinavia",
+      "description": "A historical culture of the Nordic people, known for their longboats, metalwork, and art, including the famous Viking helmets, Thor's hammer pendants, and rune stones."
+    },
+    {
+      "name": "Slavic settlements",
+      "type": "Material",
+      "start_year": "500 CE",
+      "end_year": "1000 CE",
+      "region": "Eastern Europe",
+      "description": "A network of pre-Christian Slavic settlements, known for their characteristic wooden architecture, including log houses, barns, and churches, as well as their agriculture, animal husbandry, and handicrafts."
+    },
+    {
+      "name": "Vendel culture",
+      "type": "Material",
+      "start_year": "550 CE",
+      "end_year": "790 CE",
+      "region": "Scandinavia",
+      "description": "An Iron Age culture that developed in the region of Uppland, Sweden, known for its distinctive metalwork, including the Vendel helmets, the Torslunda plates, and the Valsgärde boat grave artifacts."
+    },
+    {
+      "name": "Przeworsk culture",
+      "type": "Material",
+      "start_year": "150 BCE",
+      "end_year": "450 CE",
+      "region": "Central and Eastern Europe",
+      "description": "An archaeological culture that covered parts of present-day Poland, Ukraine, and Slovakia, known for its distinctive pottery, jewelry, and metalwork, as well as its fortified settlements and burial practices."
+    },
+    {
+      "name": "Novgorod Republic",
+      "type": "Material",
+      "start_year": "862 CE",
+      "end_year": "1478 CE",
+      "region": "Russia",
+      "description": "A medieval republic centered around the city of Novgorod, known for its distinctive architecture, including the Novgorod Kremlin and the St. Sophia Cathedral, as well as its crafts, such as birch bark manuscript writing and icon painting."
+    },
+    {
+      "name": "Baltic amber trade",
+      "type": "Material",
+      "start_year": "1000 BCE",
+      "end_year": "2020 CE",
+      "region": "Baltic Sea region",
+      "description": "A trade network centered around the rare and valuable amber, a fossilized tree resin, that was extracted from the shores of the Baltic Sea and traded throughout Europe and Asia for thousands of years."
+    },
+        {
+      "name": "Nordic Bronze Age",
+      "type": "Material",
+      "start_year": "1700 BCE",
+      "end_year": "500 BCE",
+      "region": "Scandinavia",
+      "description": "A period of Nordic prehistory characterized by the use of bronze for tools, weapons, and art, including bronze axes, swords, and brooches, as well as rock carvings, petroglyphs, and megalithic tombs."
+    },
+    {
+      "name": "Jastorf culture",
+      "type": "Material",
+      "start_year": "600 BCE",
+      "end_year": "1 CE",
+      "region": "Northern Germany",
+      "description": "An Iron Age culture of the pre-Roman era that developed in northern Germany, known for its distinctive pottery, bronze art, and fortified settlements, as well as its trade connections with the Celtic and Mediterranean world."
+    },
+    {
+      "name": "Völkerwanderung",
+      "type": "Material",
+      "start_year": "375 CE",
+      "end_year": "568 CE",
+      "region": "Europe",
+      "description": "A period of migration and cultural exchange in Late Antiquity and Early Middle Ages, during which Germanic peoples, such as the Goths, Vandals, and Lombards, migrated from their homelands and established new settlements in Europe, bringing with them their own material cultures and traditions."
+    },
+    {
+      "name": "Migration Period art",
+      "type": "Material",
+      "start_year": "300 CE",
+      "end_year": "700 CE",
+      "region": "Europe",
+      "description": "A style of art that developed during the Migration Period and Early Middle Ages, characterized by intricate metalwork, such as brooches, belt buckles, and helmets, as well as animal motifs, interlace patterns, and runic inscriptions."
+    },
+    {
+      "name": "Vendel period",
+      "type": "Material",
+      "start_year": "550 CE",
+      "end_year": "790 CE",
+      "region": "Scandinavia",
+      "description": "An Iron Age period in the history of Sweden, characterized by the development of a distinctive material culture, including the Vendel helmets, the Torslunda plates, and the Valsgärde boat grave artifacts, as well as the emergence of the early Swedish state."
+    }
+  ]
+}
